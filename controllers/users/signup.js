@@ -24,4 +24,4 @@ const singup = async(req, res)=> {
     })
 }
 
-module.exports = singup;
+module.exports = singup
